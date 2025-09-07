@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 SEP 2025 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 SEP 2025 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/Modelo_relat贸rio.tex"
-(/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/Modelo_relat贸rio.tex
+**"/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/relatorio.tex"
+(/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/relatorio.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/article.cls
@@ -777,8 +777,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen332
 \Gm@layoutvoffset=\dimen333
 \Gm@dimlist=\toks53
-) (./Modelo_relat贸rio.aux)
-\openout1 = `Modelo_relat贸rio.aux'.
+) (./relatorio.aux)
+\openout1 = `relatorio.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
@@ -819,9 +819,9 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 Package hyperref Info: Link coloring OFF on input line 27.
- (./Modelo_relat贸rio.out) (./Modelo_relat贸rio.out)
+ (./relatorio.out) (./relatorio.out)
 \@outlinefile=\write4
-\openout4 = `Modelo_relat贸rio.out'.
+\openout4 = `relatorio.out'.
 
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -879,24 +879,24 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./pictures/brasao.png, id=23, 676.5275pt x 678.535pt>
+<./pictures/brasao.png, id=43, 676.5275pt x 678.535pt>
 File: ./pictures/brasao.png Graphic file (type png)
 <use ./pictures/brasao.png>
 Package pdftex.def Info: ./pictures/brasao.png  used on input line 32.
 (pdftex.def)             Requested size: 54.12329pt x 54.2839pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
 (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 43.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 44.
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
@@ -904,68 +904,90 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 [1
 
 {/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./pictures/brasao.png>]
-LaTeX Font Info:    Calculating math sizes for size <10.79993> on input line 85.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5599> not available
-(Font)              size <8> substituted on input line 85.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.5599> not available
-(Font)              size <8> substituted on input line 85.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.5599> not available
-(Font)              size <8> substituted on input line 85.
-
-
-LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.5599> not available
-(Font)              size <8> substituted on input line 85.
+<./pictures/planoInclinado.png, id=58, 695.59875pt x 525.965pt>
+File: ./pictures/planoInclinado.png Graphic file (type png)
+<use ./pictures/planoInclinado.png>
+Package pdftex.def Info: ./pictures/planoInclinado.png  used on input line 82.
+(pdftex.def)             Requested size: 173.89926pt x 131.49092pt.
 
 
 
 
+[2{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
 
-[2
+ <./pictures/planoInclinado.png>]
+Overfull \hbox (2.30002pt too wide) in paragraph at lines 119--119
+[]\T1/cmr/bx/n/14.4 (-20) Procedimento Ex-pe-ri-men-tal 
+ []
 
-{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<./pictures/grafico1.png, id=53, 1374.13374pt x 1050.92625pt>
-File: ./pictures/grafico1.png Graphic file (type png)
-<use ./pictures/grafico1.png>
-Package pdftex.def Info: ./pictures/grafico1.png  used on input line 107.
-(pdftex.def)             Requested size: 206.11116pt x 157.63214pt.
- (./Modelo_relat贸rio.bbl
 
-)
+Overfull \hbox (5.21622pt too wide) in paragraph at lines 122--123
+[]\T1/cmr/m/n/12 (-20) Montagem do plano in-cli-nado uti-li-zando
+ []
 
-[3 <./pictures/grafico1.png>] 
+
+Overfull \hbox (0.75356pt too wide) in paragraph at lines 124--125
+[]\T1/cmr/m/n/12 (-20) Medi玢o das dis-t鈔-cias per-cor-ri-das: 1,0
+ []
+
+
+Overfull \hbox (44.66277pt too wide) in paragraph at lines 140--150
+ [][] 
+ []
+
+
+Overfull \hbox (44.66277pt too wide) in paragraph at lines 156--166
+ [][] 
+ []
+
+
+
+
+
+[3]
+<./pictures/velocidade_tempo_obtido.png, id=94, 710.4141pt x 421.0932pt>
+File: ./pictures/velocidade_tempo_obtido.png Graphic file (type png)
+<use ./pictures/velocidade_tempo_obtido.png>
+Package pdftex.def Info: ./pictures/velocidade_tempo_obtido.png  used on input line 200.
+(pdftex.def)             Requested size: 213.12587pt x 126.32893pt.
+<./pictures/velocidade_tempo_esperado.png, id=95, 710.4141pt x 421.0932pt>
+File: ./pictures/velocidade_tempo_esperado.png Graphic file (type png)
+<use ./pictures/velocidade_tempo_esperado.png>
+Package pdftex.def Info: ./pictures/velocidade_tempo_esperado.png  used on input line 208.
+(pdftex.def)             Requested size: 213.12587pt x 126.32893pt.
+
+
+(./relatorio.bbl
+
+[4 <./pictures/velocidade_tempo_obtido.png> <./pictures/velocidade_tempo_esperado.png>])
+
+
+
+[5
+
+] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./Modelo_relat贸rio.aux)
+(./relatorio.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.4401pt have occurred.
-
-Package rerunfilecheck Info: File `Modelo_relat贸rio.out' has not changed.
-(rerunfilecheck)             Checksum: AF7AC709D8E6C41AC6F16BEABD862723;455.
+Package rerunfilecheck Info: File `relatorio.out' has not changed.
+(rerunfilecheck)             Checksum: 69E7F2540A5970BBE2642A4C4BAC9AE3;1300.
  ) 
 Here is how much of TeX's memory you used:
- 45415 strings out of 473190
- 1050553 string characters out of 5704335
- 1718485 words of memory out of 5000000
- 67972 multiletter control sequences out of 15000+600000
- 578798 words of font info for 144 fonts, out of 8000000 for 9000
+ 45476 strings out of 473190
+ 1051323 string characters out of 5704335
+ 1724530 words of memory out of 5000000
+ 67974 multiletter control sequences out of 15000+600000
+ 582534 words of font info for 162 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,101p,1123b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Modelo_relat贸rio.pdf (3 pages, 257713 bytes).
+ 99i,9n,101p,1107b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on relatorio.pdf (5 pages, 918460 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 34871 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 43113 words of extra memory for PDF output out of 51595 (max. 10000000)
 
