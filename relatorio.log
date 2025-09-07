@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 SEP 2025 10:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  7 SEP 2025 11:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -916,27 +916,27 @@ Package pdftex.def Info: ./pictures/planoInclinado.png  used on input line 82.
 [2{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
 
  <./pictures/planoInclinado.png>]
-Overfull \hbox (2.30002pt too wide) in paragraph at lines 119--119
+Overfull \hbox (2.30002pt too wide) in paragraph at lines 103--103
 []\T1/cmr/bx/n/14.4 (-20) Procedimento Ex-pe-ri-men-tal 
  []
 
 
-Overfull \hbox (5.21622pt too wide) in paragraph at lines 122--123
+Overfull \hbox (5.21622pt too wide) in paragraph at lines 106--107
 []\T1/cmr/m/n/12 (-20) Montagem do plano in-cli-nado uti-li-zando
  []
 
 
-Overfull \hbox (0.75356pt too wide) in paragraph at lines 124--125
+Overfull \hbox (0.75356pt too wide) in paragraph at lines 108--109
 []\T1/cmr/m/n/12 (-20) Medição das dis-tân-cias per-cor-ri-das: 1,0
  []
 
 
-Overfull \hbox (44.66277pt too wide) in paragraph at lines 140--150
+Overfull \hbox (44.66277pt too wide) in paragraph at lines 124--134
  [][] 
  []
 
 
-Overfull \hbox (44.66277pt too wide) in paragraph at lines 156--166
+Overfull \hbox (44.66277pt too wide) in paragraph at lines 140--150
  [][] 
  []
 
@@ -948,12 +948,12 @@ Overfull \hbox (44.66277pt too wide) in paragraph at lines 156--166
 <./pictures/velocidade_tempo_obtido.png, id=94, 710.4141pt x 421.0932pt>
 File: ./pictures/velocidade_tempo_obtido.png Graphic file (type png)
 <use ./pictures/velocidade_tempo_obtido.png>
-Package pdftex.def Info: ./pictures/velocidade_tempo_obtido.png  used on input line 200.
+Package pdftex.def Info: ./pictures/velocidade_tempo_obtido.png  used on input line 184.
 (pdftex.def)             Requested size: 213.12587pt x 126.32893pt.
 <./pictures/velocidade_tempo_esperado.png, id=95, 710.4141pt x 421.0932pt>
 File: ./pictures/velocidade_tempo_esperado.png Graphic file (type png)
 <use ./pictures/velocidade_tempo_esperado.png>
-Package pdftex.def Info: ./pictures/velocidade_tempo_esperado.png  used on input line 208.
+Package pdftex.def Info: ./pictures/velocidade_tempo_esperado.png  used on input line 192.
 (pdftex.def)             Requested size: 213.12587pt x 126.32893pt.
 
 
@@ -976,15 +976,15 @@ Package rerunfilecheck Info: File `relatorio.out' has not changed.
 (rerunfilecheck)             Checksum: 69E7F2540A5970BBE2642A4C4BAC9AE3;1300.
  ) 
 Here is how much of TeX's memory you used:
- 45476 strings out of 473190
- 1051323 string characters out of 5704335
+ 45478 strings out of 473190
+ 1051345 string characters out of 5704335
  1724530 words of memory out of 5000000
  67974 multiletter control sequences out of 15000+600000
- 582534 words of font info for 162 fonts, out of 8000000 for 9000
+ 582593 words of font info for 163 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,101p,1107b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on relatorio.pdf (5 pages, 918460 bytes).
+Output written on relatorio.pdf (5 pages, 918603 bytes).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams

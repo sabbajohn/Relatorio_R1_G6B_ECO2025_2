@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex relatorio"] 1757253332.35227 "relatorio.aux" "relatorio.bbl" "relatorio" 1757253441.59487 0
+["bibtex relatorio"] 1757253956.72783 "relatorio.aux" "relatorio.bbl" "relatorio" 1757253958.25719 0
   "./biblio.bib" 1757253332.18483 2193 631881c9b363f5e322e72d2356fc208c ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/base/unsrt.bst" 1741388039 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "relatorio.aux" 1757253441.41212 2677 0a10e2f260da158b7bd261379eab1fce "pdflatex"
+  "relatorio.aux" 1757253958.07508 2677 68b48901d136e4e2379ae8e28f3c3d2f "pdflatex"
   (generated)
   "relatorio.bbl"
   "relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1757253440.06071 "/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/relatorio.tex" "relatorio.pdf" "relatorio" 1757253441.59502 0
-  "/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/relatorio.tex" 1757253439.89556 12723 6b2879b2331cda74cd0eaf5984dc5323 ""
+["pdflatex"] 1757253956.77836 "/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/relatorio.tex" "relatorio.pdf" "relatorio" 1757253958.25729 0
+  "/Users/johnsabba/Projects/IFC/2025.2 - FISICA EXPERIMENTAL I - Turma 01/Relatorio_R1_G6B_ECO2025_2/relatorio.tex" 1757253955.03029 12100 629646ad6e995daf3b7f26d92f38919f ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1741388039 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1741388039 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -253,10 +253,10 @@
   "pictures/planoInclinado.png" 1756998234.06836 288221 da57ea7f1d8a19182b7f73bd39654cb3 ""
   "pictures/velocidade_tempo_esperado.png" 1757244711.82805 222581 35c9c26da20d51349f10be6114a9d4f5 ""
   "pictures/velocidade_tempo_obtido.png" 1757244798.43495 219399 26338e5283a305db453090c7f6bdedaa ""
-  "relatorio.aux" 1757253441.41212 2677 0a10e2f260da158b7bd261379eab1fce "pdflatex"
-  "relatorio.bbl" 1757253332.40562 921 2a235e84b7c83c19e1656268d70a8d31 "bibtex relatorio"
-  "relatorio.out" 1757253441.41309 1300 69e7f2540a5970bbe2642a4c4bac9ae3 "pdflatex"
-  "relatorio.tex" 1757253439.89556 12723 6b2879b2331cda74cd0eaf5984dc5323 ""
+  "relatorio.aux" 1757253958.07508 2677 68b48901d136e4e2379ae8e28f3c3d2f "pdflatex"
+  "relatorio.bbl" 1757253956.77599 921 2a235e84b7c83c19e1656268d70a8d31 "bibtex relatorio"
+  "relatorio.out" 1757253958.07604 1300 69e7f2540a5970bbe2642a4c4bac9ae3 "pdflatex"
+  "relatorio.tex" 1757253955.03029 12100 629646ad6e995daf3b7f26d92f38919f ""
   (generated)
   "relatorio.aux"
   "relatorio.log"
