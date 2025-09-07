@@ -1,7 +1,0 @@
-\babel@toc {portuguese}{}\relax 
-\beamer@sectionintoc {1}{Introdução Histórica}{3}{0}{1}
-\beamer@sectionintoc {2}{Materiais e Métodos}{5}{0}{2}
-\beamer@sectionintoc {3}{Conceitos Físicos}{8}{0}{3}
-\beamer@sectionintoc {4}{Resultados}{10}{0}{4}
-\beamer@sectionintoc {5}{Aplicações Práticas}{14}{0}{5}
-\beamer@sectionintoc {6}{Conclusões}{16}{0}{6}
