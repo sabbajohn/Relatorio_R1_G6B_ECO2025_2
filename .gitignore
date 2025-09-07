@@ -1,0 +1,11 @@
+# LaTex arquivos temporários
+*.out
+*.aux
+*.log
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.fdb_latexmk
+.DS_Store
